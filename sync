@@ -1,0 +1,1204 @@
+curl 'https://meet.google.com/hangouts/v1_meetings/hangouts/bulk?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016189_9d7ac340be8d6189a08ec1f02ed9b93405c663ce' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],[[null,null,null,[null,2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485]]],[null,null,null,[null,1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483]]]],[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://play.google.com/log?format=json&hasfast=true&authuser=0' \
+  -H 'Authorization: SAPISIDHASH c49008818883190e771982d1d258c14d8b00a239' \
+  -H 'Content-Encoding: gzip' \
+  -H 'Referer: https://meet.google.com/' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/binary' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0003í\u009dkoÚH\u0014\u0086ÿ\u008aÅg\u0093ÌýÒ~ÙmÔí¶U\u001aiÛîª\u0002\u0084¸L\u0012vÁ¦ØDi\u007fý\u008ei\u001a\u001cCéa5N«\u009dÓH\u0004¹Æ\u000cñûø=öyÇôz4ÍÖó9ø¡·}Ê¿üê¸¬ûâY\'\u0015ig\u009c\u007f\u001c.\u009c+gÙU±\u009e\u0015nuãVCF\u0018%\u009aé\u0013"\u0086KÚ\u0019\u000cRIÒ^¯C\u00153\u0084**­±¢s·õÁÞ7íôz½þfë×óQæÎ,µÄHÝï¤ýÎù¯o^\u009f\u0015¯Diù\u000bþö¢\u001c.®6ËÍòVË÷\u001f~ûsrkÏ.æÃ¡}©>¼~y¾ùÏb9\u009a¸âô\u0096½Ïþ¾\u0098Ýtß½\u007fv:u7³j\u0021gÄ\u008e\u0099\u001cw§SË»\u0082ÙQ×PíºF2mÆn|©Ød³\u0091ûñ\u000c_ý5á7¯_]ÒeÞïÔÆÝï,ý\u009fbá¬5¿\\-F³ùÉ$_|]£ß\u0099P¦4\u0021ÆRÍ\u0088b¼zj\u0087oÎß66r9\u001dwoÖÅçîçÏî[Ãïwöÿé\u009a;­å\u0087>D\u0003ýû½=H{\u0082ð;\u0009ú]|îÊë|ú$\u0099,×\'W®|\u0099]æO\u0093w\u009f\u0096îIòû(»Ê×er\u0096/\u0096yæ²2y~[º¬\u0098åYò|µÊWOý\u0082¥ß\u001d£Ò/z\u0092¼É\u0093\u0095+üª\u0085K.Wù"q_W?I&×~\u0081;Y­³ræ\u007fÏGE¹ÙÄÉÂ\u0015ÅèÊ¿ÛY¾\u009eO\u0093,/\u0013W\u0094£ñ|V\\\'\u0093<ËÜ¤Ülá\u000f7q³\u001bÿ\u0019\u0013\u0097M\u0093iî\u008a/+ßÎ\u008aò¤_\u0089¼÷@Ð5µÔ>ýÎ.ó4\n¦Rê\u007fÌ`PWÁöÏ´} ûwö UL\u001e\u0010C5¸{ú\u0014aÂ"}ÑÒ§8ùÞ(ýÎ_¸él4,<\u001d^ýÅéd4\u009f/ÝêÒo\u008aúC9#dPý\u000b®ùûÁ\u00814¯\u008eÐ¼$¨ùH5_\u001bßa¥îÿ`þ5½\u009e\u0011$ÝÖ/\u0096\u001a¿Ð\u0008\u009a>8ªúeTs[_\u0091\u0089ÍÂ\u0087¯\u0016²R\'çG±±ïá\u0000\u001b\u001aÙ@6\u001e\u008b\r¾\u0087\rÑ`£uÅ\u001b¸â\u008d\u0094¨øH\u0015ÿ\u001f+ \u008fk·úä·£ïÊ\u009f»\u0017ëã\u009eü\u0004E\u0093=\u0006\u0013\u008d\u0098D\u008aIm|A\u008a&E¤ ;E\u0093¹3\u0006Ò¢1ìÒqHñ\u0006\u0015\u008f\u008a\u000fQ\n\u0011«\u0004·;¥Ð£(þÀ%Þ¦â-Ãâ?VÅã¥X\u0018}Ç]\u008aå\u000cL\u001fµ\u0014éCú\u0090¾\u0080ôq0}Ì*\u0086ô\u0021}H_8ú\u0004\u0098>n,z\u001fÒ\u0087ô\u0005¤\u000f\u001e\u0002\u0010Ær¤\u000féCúÂÑ\u0007\u008f#HKÐû\u0090>¤/ }ðÀ\u0083Âø)Ò\u0087ô\u0005¥\u000f\u001e¾ÐÆbW\u0019éCú\u0002Ò\u0007Ït\u0018K\u0014Ò\u0087ô\u0021}Áè\u0013ð|\u00895\u0016ó%H\u001fÒ\u0017\u0090>pÖE\u0013Kñ\u009a\'Ò\u0087ô\u0005¤\u000f\u009cuÑ\u00940ì¶ÇJ_m|AÒÄþXÎÙ&[ÉÒ\u009aÂ6SO\u001eLÁªV\u0094Í)X~¡ä­OH\u0011à$JÅ\u0006:S¬lT\u0013Rè÷FùÝ)¹\u009bµZ\u009b`r\u008c%\u0080# (û\u0098e\u001fÆ\u0012ø\u001eK\u0090\rKhý@\u000f\u008e]h/_,\u0082bU<\u009e\u0082\u0000ýæ¸S\u0010pìB3c\u0091>¤\u000fé\u000bH\u001f8v¡¹±8ë\u001eéCú\u0002Ò\u0007\u008e]h\u0081Þ\u0087ô\u0021}Aé\u0003Ç.´4\u0006\u0003¿H\u001fÒ\u0017\u008e>\u0009\u008e]h%ñ~OÑÒW\u001b_\u0098Ö\u0093W\u001em¶\u009e¼ÂH¥9¦[¼Î(áQ\u0007e\u0005V{±*\u001eý¦\u0015¿\u0081G\u001d4ç\u0018²\u008d\u0095¾à~£\u0099$M¿ñ\n£íû\r<À ñêB¼\u008aG¿iÅoà9\n#,úM¬ô\u0005÷\u001b#¨lú\u008d\u0011Æ¶ï7ð\u001c\u0085·\u001bT|¬\u008aG¿iÅoà9\n\u008b)&¤\u000fé\u000bJ\u001f8Ga\u0088\u0015è}±ÒW\u001b_\u0090jÏ\u0010£u£Ú«\u0014FZ¿Iµ\u0004g\u0017üx\u000cÞ2"VÅ£ß´â7àì\u0082¡\u0014§ÍFK_p¿¡\u00846\'îU\n£Í\u0089{Õ\u008aº9qÏ/ä¢õù\u001c\n\u009c,¨F\u008e·\u0012\u008b\u0095\u008dÿÙÄ=\u0005\u008e\u0017T²Ç@M¬²\u000fc\u0009|\u008f%È\u0086%´~ \u0007·ô\rU\u0002\u008b T|¨"H\u009af\u0084Ì+\u008cëÖ[,\nÜÒ7ÔïrT|¤\u008aÇ\u0093n\u0018}Ç\u009dt+pKß0IÐob¥/¸ß0±s·\u001c¿ÌêÖ/ò*pKß0ü>\u0098x\u0015\u008f~Ó\u008aß\u0080[ú\u0086cµ\u0087ô\u0021}Aé\u0083·ô\u0005Áé:ÑÒW\u001b_\u0098j\u008f[³Síyé>Bµ\u0007oé\u000bK°q\u0012«âÑoZñ\u001bxK_bµ\u0087ô\u0021}\u0021éÓðÐ\u0080Âo@Bú\u0090¾ ôÁ³\u000bZsü\u000e\u0096Xé«\u008d/Ì¹\u0096Vr§\u0093ë\u0015F[?×Òðì\u0082¶ØK\u008aVñè7­ø\r<GaðÖ\u0008H\u001fÒ\u0017\u0094>x\u008eÂ*\u0085Þ\u0017+}µñ\u0085©ö¬´ªYíY%Eë¹=\rÏQxÅã\u0095õX\u0015\u000f\u009d\u0092pýÅn\u008aÓñzþ\u008fß\u0080ÜNDH\u0001O~üd\u0005\r\u008f6 \u0010\u0011\u0003Q\u001b_\u0098o\u0019º¿û§|l\u000b\u0080Ç\u0009¬æxÊ\u0011«â{\u0094~M\u009elç\u009e\u0095+7Z\u0014§\u0085\u001b­&×m\u0014ðÛ7\u0005i\u0019\u001e\u0014ðZÆ\u0002\u001eµü\u0013k\u0019ÞvG-Ç­e­ZÐên%üm­\u001ax\u0093Úk\u0015«æ\u0088µjm\u000bZµ;ÇÊ\u0003Z\u0085·t­\u00168u$Z­\n&Xø«\u0011l÷«í\u000fh\u0015Þ\u008cõZÅè\u001djõ\u0007j\u0015Þº´Æb\r\u0010¯V±u\u0009¢ï¨Ö¥9Üº\u001c¤÷ôYB´é|\u000b¼}\u000fdð/z\u0007MYÝÁ\u0000\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016191_f5b0cf2590acd5d2056bf50ea5966d8484571d98' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+\u001a\u0004\n\u0002\u0008-"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*R\u0002\n\u0000Z\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016191_f5b0cf2590acd5d2056bf50ea5966d8484571d98' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016191_f5b0cf2590acd5d2056bf50ea5966d8484571d98' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_sessions/callperf?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=proto' \
+  -H 'Content-Encoding: gzip' \
+  -H 'X-Goog-Encode-Response-If-Executable: base64' \
+  -H 'Accept-Language: en' \
+  -H 'Authorization: SAPISIDHASH 1628016191_f5b0cf2590acd5d2056bf50ea5966d8484571d98' \
+  -H 'Content-Type: application/x-protobuf' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'X-Goog-AuthUser: 0' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0003¥\u0095ol\u0013e\u001cÇ\u009fç®]¯W¶>lh\u008eFM\u001do&Ðíîúï®\u0010³®\u0083®-es[Ýº\u0017\u0096u½n]·µ¬´Ô½\u009a\u001b\u0098AP\'*l\u0004\u0013\u0082\u0010q\u008a,\u0008É\u0004MÊL\u0096I\u0010\u0011\u0095(\u0086X0&C^\u0088\u0089\u009a9D}º±]\u0089¼\u0090ø¼øÝçûü¾¿ûå÷¤½\u0087®¦\u0009Ê\\¼\u009a^\u001e\u008cm\rttµöH\u000e\u0091\u0013YÁl-}di+ànj3¦<î0\u0017\u008f\u0095*¥\u001e\u0083³Ê¦¡ \u001a#\u0019¨\u0087eTq\u0089×¾ÙãH¸MÛD£ÓØP»-ÐÝ®û£°\u0098\u0011âi«Ùçßøl[ZtÔv\u0005\u0002¢Ëâ÷¸¼½\u000f~ù\u0018\\ÙÆñ\u0016+Ë\n"gåY\u000boÌ¡\u0018Øìm\u0098\u0084\u0095\u0089xk\u009b\u0094¨Hó¾\u009eÎÚHÊÐè«ª\u0008I©HnÓÈ³b\u00907\u0007\r¡\u0090h4\u0098x±Õ pVÉ \u0098y«\u0010\u0094\u0082a\u000bß¦ûßo(ýYC?hØâ§\u001b\u0093\u0092Þ\u009el×³F=Ïò\u009c\u009e\u0013l&ÎÆ²z§·q\r\u008b\u0097¾Ì\u0011\u008bõ\u0086"=­Û¤\u0090Þ×\u0013II½\u0089Ö.}c¤[zê\u0018õé\u0097S?\u008dW0\u0083p\r{\u0010NÐÄ\u0088\u0006ì-Ò\u0021À\u0000|Â\u0080\u0005\u0002¨\u0004qP\u0003ê@3Ø\u0002:ÀºJ¢æïÅ\u0005ëdl\u0096q\u008b\u008c\u001d2ÆeLËØ\u000fe\u001eÊãYHÌ\u0012Ù·\u008bûI0D\u0082a\u0012\u008cPà\u0010\u0005&\u0094 £\u0000ë×UÂ\u001a²Î\u0092ß\u0093û\u000f­\u008e~\u0087{\\PÌB¸\u0093 u\u0000\u000c\u0011ä\u00015M\u0011HÉ\u0090x\\M\u0096àg\u0088\u0011â6Q1QðráX\u0081"\u0016O&~$sÖ9ª\u0090úë\u0013\u0015\u009a:¯züEñÎú\u009cÆ\u008c>øJÖ\u0098ÑÜUYcF\u0093×e\u008d\u0019\u009d¸%kÌè÷_d\u008d\u0019Ý¸#kÌèÔ\u0000µ¤1£\u0081]²Æ\u008cnî\u00955f4>º 3*yðk\n\u0080×o\u0005¹xº0\u0017_Råâ\u001bóñîüþ\u009bt.\u001e¦×\u0082\u0087Xg\n\u001fÊ>FkH\u0092$\u0094\u0004\u008e\n2K\u0083]\u009a\u0003£££+\u001d¤}XÓÿné\u000c\rnÓ§¦VÌÒÙ[\u0007É\u008c\u0012L+\u008f§/)Ï*¾Q\u001a²ÊáÐ\u008cò´v\u0086:©]ÿ\u001a\u001c\u0081ð\u0010T\u001d\u0083Â¸Ö>¡µg´ð²Fc464Ô××WW\u000bÂ8|g\nNÀ£0[\u0090QÌ\u0014\u0080\u000c|k\u008e\u0098\u0086w\u0088Ëð1z\u0005ÇYËyÎRÎ\u008bå\u009c`´\u0099,\u0016Þ\u008a`î\'\u007f\u0015êèbÎÄ\u0097óf¶\\À\u000f\u001b\'\u001aY3Nâ/Î´\u0002¼\u000e3\u0004\u0098&à\\Q\u0013\u0005Ð\u000fw\u0021\u0093\u009dV\u0095\u0016`Æÿ\u0098Õ\u001aJ\u0087^ØA0ÇN\u001dz\u0094×P1ôë9\u0015sâÊ÷\u001bm÷\u001cU÷\u009en5µ\u0015½ja\u008e\u008c\u001bê\u008b¨B4¡`®Ý¾V¬?û±zV\u0001ú\u0095¡95C\u0091ó]AÙá\u0012ö£\'½¹\u0003ôåB.E¡Jf¹¾¢l\u0016±ïy½\u0087WMÚ\u0097R\u0004R0\n\\uDÍ¾¼êþ*\u0088Ô\u008c\u001a§¦Üì\u0010q\u007fJ\u0089\u0008\u0086À©K*ö\u009cöþ\u0094\u0002©\u0018\u0015NÝ|\u0082½Y"§nh\u0008\nÜ(\u0002»µç\u0009Ú\u0086gØ¹oïî¯¯?§£©WÔ({î"þ¬`\u001eQ£?\u0017y_\u001eïW£Ï¾È1®]\u0086\u0006ók¯/zN¨ÑÀ¤\\;8)×\u000e^\u009e¯-Ã\'±z¡êøE¹ã\u008eÏåª\u0005ÆN\u0002\u0019þí\u001cÊs\u000e-:i\u0004\u0016\u009cïç9÷ä9÷,:Õ\u008bÝ\'ò\u009cÃyÎáE\'Dk\u0016\u009c\u001f^\u0094§Û\u009fç\\à\u0001\u0084Ouí%\u001an\u0001\u009dê¥»j\u0018\u0082\u0093pY8\u00144¤\u0092\u0089>C_\u009ft\u0006\u0096<àN)ý\u0016ê®@ú\u0002´×ºúº\u0092Õa·Éµ¹f\u0093;\u0091N\u0005ÂÍ¾æTÀÃv§L\u001bêÂ\u001bý¾\u0080g\u0083»Þä7ò¾í¾\u009e\u0094Ó\u0018íc­\u0089¤\u009fo6{RNS\u009dä~>mn\u008a4Fù@8\u0099ÞdOY\rÁHm:ÖÛ\u0013l\u0089u6Uá\u008bÄSÛ\u009bhj\u0009$]>CË3®hÈY\u00174¶4\n\u0092ØÙ[ïn\u008dV\u0019â\u009dî@³×ÑÞ.Ä¶\u0007DKÔÅñ>©\u0099¯6wxyG4è÷\u0086\u009dMÁn»+¹µ©\u009e\u0013S\u009dþ\u008e8ÛÈ¥C}\u001e«?º¡%TÝËKNtõô\u0005|2ÿ\u0000ÿpSà3\u0008\u0000\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016192_67e1e2ff78cac2fcbe8bb0ab24a7880f5acfe90f' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016192_67e1e2ff78cac2fcbe8bb0ab24a7880f5acfe90f' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016193_e42c68fcc99948be2c6953751ef52ea779712db3' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016193_e42c68fcc99948be2c6953751ef52ea779712db3' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016193_e42c68fcc99948be2c6953751ef52ea779712db3' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016193_e42c68fcc99948be2c6953751ef52ea779712db3' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016193_e42c68fcc99948be2c6953751ef52ea779712db3' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016193_e42c68fcc99948be2c6953751ef52ea779712db3' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_sessions/query?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016193_e42c68fcc99948be2c6953751ef52ea779712db3' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],"MANKCsJ4t93G3SOt_mg",[3,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016194_a3b1cc8f19ef862b11bd53157a6ff288b930b0c7' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016194_a3b1cc8f19ef862b11bd53157a6ff288b930b0c7' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016194_a3b1cc8f19ef862b11bd53157a6ff288b930b0c7' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016195_48c6cf67ec7a6dd7011240ca4d4942509697befd' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016195_48c6cf67ec7a6dd7011240ca4d4942509697befd' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016195_48c6cf67ec7a6dd7011240ca4d4942509697befd' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016195_48c6cf67ec7a6dd7011240ca4d4942509697befd' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,true,[359,640,30],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016195_48c6cf67ec7a6dd7011240ca4d4942509697befd' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016196_6e9a94ecd9848db5382754abda1cca225dbc97dc' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,true,[359,640,30],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016197_11b134c2ebf3a1d6ae1fd410a6991a0cd79e05b7' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016197_11b134c2ebf3a1d6ae1fd410a6991a0cd79e05b7' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016197_11b134c2ebf3a1d6ae1fd410a6991a0cd79e05b7' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016197_11b134c2ebf3a1d6ae1fd410a6991a0cd79e05b7' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016197_11b134c2ebf3a1d6ae1fd410a6991a0cd79e05b7' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016199_2edfd122f4bdc7c506027771ab2b938e01df4d52' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016199_2edfd122f4bdc7c506027771ab2b938e01df4d52' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016200_15c4f1c3665d356e511940840728f31811341028' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,true,[359,640,30],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016201_af020348ba4c27e32465c119628374066f327751' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016201_af020348ba4c27e32465c119628374066f327751' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016201_af020348ba4c27e32465c119628374066f327751' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016201_af020348ba4c27e32465c119628374066f327751' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016201_af020348ba4c27e32465c119628374066f327751' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_sessions/callperf?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=proto' \
+  -H 'Content-Encoding: gzip' \
+  -H 'X-Goog-Encode-Response-If-Executable: base64' \
+  -H 'Accept-Language: en' \
+  -H 'Authorization: SAPISIDHASH 1628016202_d908545d60ec24ab84b16f06cf3bf372392e2676' \
+  -H 'Content-Type: application/x-protobuf' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'X-Goog-AuthUser: 0' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0003¥\u0095\u007fl\u0013U\u001cÀß»k·ëu[\u001f\u001b\u0092³ASgLæf·»ëÏ\u001bÄ¬ûA×\u0096²9ZÛ.Ä²®×­ëÖ\u0096\u0096\u0096:ÿ\u0019\nf\u0092 c 0#q\u0012\u0012`ñ\u008f\u0085\u001faYüc\u001a3g\u0082fNEE\u0084\u0081Y\u001cø\u0087ÄHXfPßm\u008c\u001b\u0009\u007f\u0090øþøÞçûý¼{ïÞËÝ;º\u009e&(Sq9½&\u0094Ø\u0011ììn\u008b\u008bu\u0002\'°V\u0093¥ô©\u0087¥ Ó×nÈº\u009c\u0011.\u0099(U\u008aq½½¶ZMA4B2P\u0007Ë¨â\u0012·m\u008b«.í4î\u0014\u000cvÃÖ¦\u009dÁ\u009e\u000eíÕ\u0082bÆ\u009aÌYLÞÀ¦WÛsB]Sw0(8Ì\u0001\u0097Ã\u009dzüà#ðév\u008e7[XÖ*p\u0016\u009e5ó\u0006\u0009\u0085à\u0016÷ÖÏ`M:ÙÖ.¦«r¼7ÞÕ\u0014Íê=ÞÚª°\u0098\u008dJE\u0003Ï\n\u0021Þ\u0014Ò\u0087Ã\u0082Aoä\u00856½\u0095³\u0088z«\u0089·XCb(bæÛµÿ{\u0084Ò\u0019\u009a~Üb\u008b_ödD\u009d-Ó¡c\r:\u009eå9\u001dg­6rÕ,«³»=\u0015,nº²ºD"\u0015\u008eÆÛv\u008aa\u009d7\u001eÍ\u008a©t[·Î\u0013í\u0011_<M}ùíäíÑ*f?¬`OÁ1\u009a8¦\u0006\u0083EZ\u0004\u0018\u0080w\u0018°À\nj@\u00124\u0082fà\u0007ÛA\'ØPC4þ»Ò`³\u008c~\u0019·ËØ)cRÆ\u009c\u008c}PæþU¼\u0000\u0089\u0005böTq\u001f\u0009úI0@\u0082c\u0014\u0018¦À\u0098\u0012L(ÀÆ\r5°\u0091l¶®\u009e³â\u0009¦úáw<Ç¢b\u0001Â½\u0004­\u0005 \u009f ßWÑ\u0014\u0081\u0014\u000c\u0089\u0097KÏ\u0012ü<q\u0015Þ\u0021ªÆò®\u0014\u008cä)\u0012ÉLz\u008e\u0094º.R\u0085Ôè\u0010\u0085\u0016>¤\u009ey[ø{£\u0094cFsgä\u001c3\u009a>\'ç\u0098ÑÐ¸\u009ccF7&ä\u001c3:ó\u0085\u009ccF\u0087¿\u0091sÌèä59Ç\u008c¦nÈ9ftp~9\u009fÈ\u0097\u0017ú\u008b\u0002àv7O\u008a\u0017\n¥¸?_\u008aï-ÅûKõã´\u0014OÐeà\u0009Ûxá\u0013w\u001d¡i\u0092 \u0008\u0092P\u0090\u00049K\u0083wÔ\u0006©ÝUØ\u0006Ô}{^\u0098§Á\u001dúüäÚ\u0005zøâ89¡\u0004SÊã}pZyKñ£R?«\u009c\u0089Í+/hæ©³\u009a\u008d\u0087à1\u0008\u0087aþi¸mTÓ0¦i\u0098ÐÀ\u00195mu:½^¯Ý¾mÛ(üà;8\u0006?\u0087³y·\u0015óy`\u0002^\u001e$§àub\u0006®§×r\u009c¥\u0092çÌ\u0095¼PÉY\rÕF³\u0099· (½ÙW \u0096.æ\u008c|%ob+­øRÍ\u0009\u0006Ö\u0084%>X¦\u0014à0\u009c À\u0014\u0001\u0017\u008b|\u0014@¿Þ\u0087ÌÜQª4\u000f3þ0ÊÕ\u0094\u0016íÞC0§Ï\u000f¯ãÕT\u000e\u001dØO1»ÿúÙUý Gí\u0083«SE½\u0081Æ70\u007f\u000cs-ET\u0019\u001aS0§.\u000e\u0095è\u0006\u000fÒ\u000b\nÐ§\u000c/ª\u0018\u008a\\\u009a\u0015\u0094\u009d(a?yÎ-í\u009fW\n\u0092¢\u0090\u008dY£cË\u000e­a?v»-_\u0095×<TÒ;«Àw\u009dT±ï>ÿè]\u0010©\u0018\u0015V\u0093N¶\u009fxT)\u0011Á\u0010XMç³\u009fj\u001eU\n\u0094ÏäcuëYöV\u0089¬nª\u0009\nÜ,\u0002û4\u0093\u0090^\u008f\u009f¨\\KSGUèæµ¯ñ¹\u0081yH\u0085îý)1¶\u0004Ò/Û#×e{`ÅÒ\u0008,ÛéUö£\u0015«Z\u0019ù\u009fUö·\u0015\u000bQÅ²=7+Û\u0085;Kv\u001dU\u0080Þ:2¸ïû\u001b¯-×ûî=¨\u0017¢½«ësKõ7\u0011^ÑKÓ4Ü\u000eºT\u000f\u007f\u0007\u0003\u0010\u009c\u0085\u0005\u0091pH\u009fÍ¤{õ½½â8,yÌ±]ú\u0013Ô^\u0086ô%hkrôvgê#N£cKãfg:\u0097\rFü^\u007f6èb{²Æ\u0086æÈ¦\u00807èjp¶\u0018\u0003\u0006Þ»Ë\u001bÏÚ\r±^Ö\u0092Î\u0004x¿É\u0095µ\u001b\u009bEçë9\u0093/ê\u0089ñÁH&·Ù\u0096µèCÑ¦\\"\u0015\u000fµ&º|µø¬v5¥Ò¾Ö`ÆáÕ·¾â\u0088\u0085íÍ\u0021C«Ç*\n]©\u0016g[¬V\u009fìr\u0006ýîº\u008e\u000ekbWP0Ç\u001c\u001cï\u0015ý|½©ÓÍ×ÅB\u0001wÄî\u000bõØ\u001c\u0099\u001d¾\u0016NÈv\u0005:\u0093¬\u0087Ë\u0085{]\u0096@¬¡5\\\u009fâE;ºrá\u0012Þ\u0099ÿ\u0000j\\\u0099ë\u0096\u0007\u0000\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016203_0685f8deaadd64068ea509bcea178b58c4491424' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016204_53d7a9043e9dbc01af58889b75edbd977d74daff' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,true,[359,640,30],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016207_dea6d8a341b8e958db27a231b47fc564bb051e9b' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016208_0ba793f6ebc3b4d5b85aeacc89e7a9959b37f8f0' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016209_5f1396634d409e45cd536f3e70b1e14d8f226edf' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016209_5f1396634d409e45cd536f3e70b1e14d8f226edf' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016209_5f1396634d409e45cd536f3e70b1e14d8f226edf' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016210_40bb173ce58fcff73a96affbb5d6790948211fcb' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016210_40bb173ce58fcff73a96affbb5d6790948211fcb' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016210_40bb173ce58fcff73a96affbb5d6790948211fcb' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016210_40bb173ce58fcff73a96affbb5d6790948211fcb' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_sessions/query?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016212_c7769bc5ddc0644445987b5d6bc542e8efdd5d9f' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],"MANKCsJ4t93G3SOt_mg",[3,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_sessions/callperf?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=proto' \
+  -H 'Content-Encoding: gzip' \
+  -H 'X-Goog-Encode-Response-If-Executable: base64' \
+  -H 'Accept-Language: en' \
+  -H 'Authorization: SAPISIDHASH 1628016212_c7769bc5ddc0644445987b5d6bc542e8efdd5d9f' \
+  -H 'Content-Type: application/x-protobuf' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'X-Goog-AuthUser: 0' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0003¥\u0095}l\u0013e\u001cÇ\u009fçÚÛ®W¶=lHÎFL\u009d\u007f8\u0081nw××+ {¥kKÙ\u0018­k\u0017cY×ëÖî¥¥¥¥î\u000f3Åá$A\u0011\u0001\u0017¢\u0091\u0010\u0083°`² #\u0085\u0088\u0099Æà0D\u0016|\u0009¢\u000bs\u0093¥hÄ\u0091¨Y \u0088Ï­À\u008d\u0084?$þþøÝçûü¾ÏóÜóä¹{èZ\u009a \u008cÅËéÅ\u0081èf\u007fGWk\u008fX#p\u0002k1\u009aK\u001f¹×äw4·éSNG\u0088\u008bEKI±Gg«¶ª)\u0088\u0086\u0014\u000cÔÂ2ª¸ÄUµÞY\u0093p\u0018¶\u0008z\u009b~cÃ\u0016\u007fw»f¶ \u0098±ÄÒf£Ç·ö¹¶´PÓÐå÷\u000bv\u0093ÏiwÅ\u001f<ø\u0010|´\u008dãMf\u0096µ\u0008\u009c\u0099gM¼^BÁ¿ÞµñsX\u0099\u0088µ¶\u0089\u0089\u008a4ïé\u00894\u0084S:·§º"(¦ÂR£\u009eg\u0085\u0000o\u000cè\u0082AA¯3ðB«ÎÂ\u0099E\u009dÅÈ\u009b-\u00011\u00102ñm\u009aÿ=Bé\u008c\u009a~Ðb\u008b\u009fq\'EmU²]Ëêµ<ËsZÎb5pV\u0096ÕÚ\\î\u0015,\u000emYM4\u001a\u000f\u0086{Z·\u0088A­§\'\u009c\u0012ã\u0089Ö.­;Ü->}\u0098:ûÍ\u0099_\u0087+\u0098A¸\u0082=\u0006341¨\u0006»\u000b5\u00080\u0000ï0`\u0081\u0005T\u0082\u0018¨\u0007\u008dÀ\u000b6\u0081\u000e°ª\u0092¨¿}7`£\u008c^\u00197ÉØ\u0021cLÆ´\u008c}Pæ\u0081\u0005<\u0007\u00899bòÃâ>\u0005\u0018P\u0080]\n0H\u0081\u0003\u0014È\u0090`T\u0009V¯ª\u0084õTcåÂ9\u0097ý\u0087©>º\u0089ç8DÎAØOÐ\u001a\u0000\u0006\u0008b¿\u008aÆ\'\u008ad\u0014x¹êI\u0082Ï\u0012?ÁY¢"\u0093÷7=\u0094§\u008cÆ\u0092\u0089+\nÉz\u0083* ÞÊRèâ5jÙváæjIcF_ÎÉ\u001a3Úy[Ö\u0098ÑÅ~\u0095ìïW¡Ñ7e\u008d\u0019\rì\u00935fôçû²Æ\u008cN\u001f\u00925f´gXÖ\u0098Ñì\u0009YcF\u0099Ó9=\u009a//|B\u0009pü\u0095\'å\u0091\u0002)ïÌ\u0097òÞù|k¾ý=ZÊ\u0007é\u0095à\u0021âTÁCÙ\u0087h5A(\u0009RA( \u0092\u0098¤Áëê\u0090\u0014ûóªv©û¾~*K\u0083Yúø\u0099%stßÙK\u008aQ\u0012\u008c\u0091Ù\u00018Nî%/\u0092ºIòz"K\u008e\u0014e©cE«ß\u0086\u0083\u0010\u001e\u0080ù\u0087¡i¸È\u009e)²\u008f\u0016Á\u000bjõó\u000e)Ö¬Yc2\rÃw\'`\u0006î\u0087\u0093yÛÉl\u001e\u0018\u0085ÿ\u001cQ\u008cÁ\u0011â\u0002|\u008c^Âqær\u009e3\u0095óB9gÑ[\r&\u0013oFP:ó\u0097 \u0086.æ\u000c|9odË-øaå\u0004=kÄEüË\u0019S\u0082=p\u0094\u0000c\u0004¼Qè£\u0000\u009a¾\u0005\u0099=¿S¥y\u0098ñ\'³\\MiÐË¯\u0012Ìáã\u0007\u0096ò\u008b¨m\u0010}1C1sC\'6XïXªï<\u001d4Õ\u000fÑ\u001fÏ2¯e\rM\u0085\u0094\u0011e\u0094ÌäÔÉ\u0012íÑizN\u0009úÈà\r\u0015C)æç\u0005e\u0007KØO\u009epI{è\u0091\u0092T¢P\u000b³Xk/ûj){Ôå\nG^ª¾W"\u0090\u0092Qâ^\u001f¨Ø7\u009e¼¿\u0017D*F\u0085Kg\u001cì\u0000q\u007f\u0089D\u0004CàÒx>ûYÑý%%ÊgòqéêãìÕ\u0012¹4¥&(0U\u0008v\u0014}JÐVj\u0011Ú¶o÷\u008eï~~ACSød\u001f\u001c>\u008fÿ,\u0098\u0007Uèã»¼o\u0001¿£Bß\u009e\u0097\u0098.Ã«Y\u009eë5<\u0021÷:;\u0021÷Ê1v\u0012H\u0097s\u008e_\u0096\u009dS\u0097eg\u008e±\u0093F ç<2-;ONËÎSóL\u0097S\u0005¨\u007fá\u009bO,ðÿ¶À\u009fc<²êîÛ^ûEvö_\u0091\u009d9ÆN\u0088Vä\u009c?ÎÈÎë3²3Ç¯ ¼\u0093+Çi¸\u0009DT÷®¨]\u0010\u001c\u0083\u008bBÁ\u0080.\u0095Lôêz{ÅS°ä\u0001WIé\u000fPó=¤ÏÁª\u0006{oW²6ä0Ø××¯s$Ò)\u007fÈëñ¦üN¶;e¨k\u000c­õyüÎ:G\u0093Á§ç=[==)\u009b¾³\u00975\'\u0092>Þkt¦l\u0086FÑñbÚØ\u001cvwòþP2½®*eÖ\u0005Â\réh¼\'Ð\u0012\u008d4WãûÃÙ\u0010O4·ø\u0093v\u008f®e\u0083½3hk\u000cè[Ü\u0016Q\u0088Ä\u009b\u001c­\u009dÕºXÄá÷ºjÚÛ-Ñ­~ÁÔiçx\u008fèåk\u008d\u001d.¾¦3às\u0085lÍ\u0081î*{rss\u0013\'¤"¾\u008e\u0018ëæÒÁ^§Ù×Y×\u0012¬\u008dó¢\r]\u001a9\u0087wæ_\u0094; \u001c*\u0008\u0000\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016213_150fbeea04b361dc4f856415ee1d8be86262ed68' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016213_150fbeea04b361dc4f856415ee1d8be86262ed68' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016213_150fbeea04b361dc4f856415ee1d8be86262ed68' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016214_79600dfa82584fc7d079a424d7dd8cb567b030ee' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016214_79600dfa82584fc7d079a424d7dd8cb567b030ee' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016214_79600dfa82584fc7d079a424d7dd8cb567b030ee' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016214_79600dfa82584fc7d079a424d7dd8cb567b030ee' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016214_79600dfa82584fc7d079a424d7dd8cb567b030ee' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016215_68e1f21230780b6e901fee896f9a26c9503cc787' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016215_68e1f21230780b6e901fee896f9a26c9503cc787' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016215_68e1f21230780b6e901fee896f9a26c9503cc787' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016215_68e1f21230780b6e901fee896f9a26c9503cc787' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016215_68e1f21230780b6e901fee896f9a26c9503cc787' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016216_4e068eb783b4763fc0ed37efb1e60f07134546b0' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,true,[359,640,30],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016216_4e068eb783b4763fc0ed37efb1e60f07134546b0' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,false,[0,0,0],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016216_4e068eb783b4763fc0ed37efb1e60f07134546b0' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016217_d60724855a8a4a806b769bf6aa9ade3946363ba2' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016217_d60724855a8a4a806b769bf6aa9ade3946363ba2' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016217_d60724855a8a4a806b769bf6aa9ade3946363ba2' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016217_d60724855a8a4a806b769bf6aa9ade3946363ba2' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016217_d60724855a8a4a806b769bf6aa9ade3946363ba2' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016218_a9cc7097211bf255ce6f1f898470d9c9eb7cbb20' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016218_a9cc7097211bf255ce6f1f898470d9c9eb7cbb20' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,false,[0,0,0],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016219_2d86e26ab198eb97ca7350246ba185ddb115d05e' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,false,[0,0,0],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016221_ae5c83d6f6e2db8555f9781b42dd40b64248de69' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016221_ae5c83d6f6e2db8555f9781b42dd40b64248de69' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016221_ae5c83d6f6e2db8555f9781b42dd40b64248de69' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,false,[0,0,0],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016221_ae5c83d6f6e2db8555f9781b42dd40b64248de69' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016222_6bdcfde72ddf08d8b01adedec1b33c25c1c9c832' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016222_6bdcfde72ddf08d8b01adedec1b33c25c1c9c832' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016222_6bdcfde72ddf08d8b01adedec1b33c25c1c9c832' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_sessions/callperf?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=proto' \
+  -H 'Content-Encoding: gzip' \
+  -H 'X-Goog-Encode-Response-If-Executable: base64' \
+  -H 'Accept-Language: en' \
+  -H 'Authorization: SAPISIDHASH 1628016223_57a5b0818af1bace549a5d8e384cb8ec721731ba' \
+  -H 'Content-Type: application/x-protobuf' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'X-Goog-AuthUser: 0' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0003¥\u0095klSU\u001cÀÏ¹m·{o÷8lH®\u0015M\u0099\u001f\u0098cÝî£¯[ÐìI×\u0096ns¬lÝ\u0007ËºÞîÝ\u0096\u0096\u0096ºøa\u008cG&ò\u0098¼\u009c&3\u0013\u008c\u0092EÉ [\\P\u0092\u0089fN\u001dq\u0001\u0021J\u0084L\u008480$ø\u0081d\u0019\u0012<Ýë²\u0084\u000f\u0012Ï\u0087ÿýýÏï\u007fÏ¹çäÞ{è\u0012\u009a \r\u00199ô\nop\u009b§©­> \u0015\u008b\u009cÈ\u009a\r¦¬ç\u0096º<ö\u009a\u0006\u0021æ°û¹P0K%\u0005tÖ"\u008b\u009a\u0084h@Á@-Ì&32\u009d\u0085å\u008eâ\u0088]¿]\u0014¬Âæ\u008aí\u009eöFÍPj\u0006c\u000eÅM\u0006\u0097{ã\u0096\u0086¸X\\Ñæñ\u00886£Ûas\u0086\u009f>ø\u0000|¾\u0081ã\u008d&\u00965\u008b\u009c\u0089g\u008d¼\u0090@ÑSîÜ|\u0001\u0016DBõ\rR$?Î»\u0002-\u0015Í1]µ«(ß\'Å\u009a\u0013\u009d\u0002Ï\u008a^ÞàÕù|¢ Óób½ÎÌ\u0099$\u009dÙÀ\u009bÌ^Éë7ò\r\u009aÿ=BÖ\u0080\u009a~Úb3^«\u008eJÚÂh£\u0096\u0015´<ËsZÎlÑs\u0016\u0096ÕZ\u009dÕëXÜ´ÙÅÁ`Ø×\u001c¨ß.ù´®@sL\nGêÛ´ÕÍíÒ+§Èï/\u008fÝ\u001dÌgNÂuìy8B\u0013½jp8M\u0083\u0000\u0003ð\u000e\u0003\u0016\u0098A\u0001\u0008\u00812P\u0009jÁVÐ\u0004Ö\u0017\u0010e\u008f\u0017\u001b¬\u0094±VÆ­26É\u0018\u00921.c\'\u0094¹û\u0009\u009e\u0081Ä\u000c1õiF§\u0002t+@\u008f\u0002ô\u0092 \u009f\u0004#*0ª\u0004\u001bÖ\u0017À²äÊÒ\'ç|á?Lµs?Ñ\r¯¨f ÜCÐ\u001a\u0000º\u0009â\u0003\u008a&\u0009¤d\u0014x¹ê)\u0082\u009f&~\u0083÷\u0089ü\u0091¤c)\u0003IÊ`(\u001a¹­H\u0094Î\u0092©äÈy\nu~K½¸W|¸\u0021\u0091cF÷.Ê9f4ü³\u009ccFý7ä\u001c3ºwë\u0089ú[\u0014\u001aúKÎ1£¾\u0007r\u008e\u0019Ý~(ç\u0098Ñç]ôR\u008e\u0019õî\u0097sÌhêð|>\u009a,/üº\u0012àö )\u0011\u0087S\u0013ñ@r"\u001e\u009b\u008b\u008fæúûèD<Aç\u0082ghçR\u009f©|\u0080V\u0013JBA\u0010J\u0005\u008eS4x[}qbbbS\u0098,ìQ\u008f\u009eÎ\u0099¦Á}zhlå\u000cÝ\u007fyV1ª\u0002ãªÁwá¤ê\u001bÕ/*Ý\u0094ê\u009d·¦UÃéÓäÙô\rG`/\u0084ý0ù\u0014\\;\u0098^>\u0092^>\u009a\u000e/©Õ\u0016\u008b \u0008z}nnîÚAxò\u000e\u001cÁeSI\u0003ªé$0\n¯_P\u008cÃ]Ä%¸\u009a^Éq¦<\u009e3æñb\u001eg\u0016,z£\u00917\u0021\u0098xç¯A\r\u009dÁéù<ÞÀæ\u0099ñÅÂ\u0089\u0002kÀ\u0012ÿrÆ\u0095à(\u001c%À8\u0001gÓÜ$@\u007f<\u0082ÌÍ\u000bTV\u0012füÉä¨I\rÚ¹\u009b`N\rõ¯âSÈ\u0003\u0010\u008d\u007fA1\u007fÿùÝ\u0016ËBIÑÂÕN\u0093=\u0010\u001d*a>ÚcªJ#_E#JæÈ\u0099«\u0099Ú\u001f¿TÏ(A§Ê7K1¤bn^\u0090}"\u0093ýj\u008d3±\u0087®DH(\u0012Õ1+´¶ì\u001fV±\u009f9\u0097«Äû¬Äw}L±\u0007_^® ¢\u0018\n«1;ÛM,W*D0\u0004V\u0093Éì×éË\u0095\u0012%3ÉXÝy\u0089½\u0093)«\u009bj\u0082\u00047ÓÀ¾ô.\u0082^\u008d\u009f(GC\u0093ïQèî??á\u007f\næ÷)4vh\u00123¶\u0004ÒÍÛ\u0083\u008fe;|pÁÒ\u0008ÌÛk]\u0093Köê¼Í"SÑ\u009eã\u0087÷]ùý\u008dù\u009a\u009e]rÍþ£\u000b#P\u008b³\u000fî\u0096í\u0099ÅÙ\u0021Z7oûöÊöÆ\u00819»\u0091LA»\u0096ÆÇý\u009f\u001cY¨9D¡îã2÷}¸À½ø;\\äã\u0014:=Ç]\u0008ïFî$\r·\u0082\u0016jé\u0098é\u0081à,Lñû¼ºX4Ò¡ëè\u0090ÎÁÌ§\u001c\u0007Y¿BÍUHOÀÂ\n[G[´Äo×ÛÊË6Ù#ñ\u0098Ç_ëª\u008dy\u001cl{L_Zéßèvy\u001c¥ö*½[à];\\\u0081\u0098Uhí`M\u0091¨\u009b¯58bV}¥d\u007f3n¨i®nå=þh|SaÌ¤ó6WÄ\u0083á\u0080·.ØRS\u0084Ï\u0000GE8RSç\u0089Ú\\ºº×m­>k¥W¨«6KbK¸Ê^ßZ¤\u000bµØ=µÎâÆFsp\u0087G4¶Ú8Þ%Õò%\u0086&\'_Üêu;ýÖ\u001ao{¡-º­¦\u008a\u0013c-î¦\u0010[ÍÅ}\u001d\u000e\u0093»µ´ÎW\u0012æ%+º6<\u0081wæ_ë9¦ºî\u0007\u0000\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016225_82c7757114b391ae7c1e64c08f4b6cd703b36157' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016226_d8c8f6542e98f09949f659043dd3bbe5c5c7ca98' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016228_730e2445c7ba38aee6742b6e90557f51742d0d7c' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016229_0753d7e2189f080cdadf5aa8e35eba5a76525d28' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016229_0753d7e2189f080cdadf5aa8e35eba5a76525d28' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/modify?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016229_0753d7e2189f080cdadf5aa8e35eba5a76525d28' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],null,[null,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]],[[1,2,"MANKCsJ4t93G3SOt_mg","2608667487","8px75UYFVcx9COl__9I6YKIM","spaces/x2UnjOiv-TUB/devices/53180c54-55af-4ac6-9848-60874c840722","2",[[2608667487,1322596344],[["FID",[2608667487,1322596344]]],[]],[null,false,[0,0,0],null,[]]]]]' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016229_0753d7e2189f080cdadf5aa8e35eba5a76525d28' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBZ\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016230_d13b80fad9bb4d870ae6f5a194c25621feb534bf' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUBR\u0004\n\u0002\u0008*' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016230_d13b80fad9bb4d870ae6f5a194c25621feb534bf' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u0012\u0004\n\u0002\u0008+' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016230_d13b80fad9bb4d870ae6f5a194c25621feb534bf' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],2,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948485,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://play.google.com/log?format=json&hasfast=true&authuser=0' \
+  -H 'Authorization: SAPISIDHASH c49008818883190e771982d1d258c14d8b00a239' \
+  -H 'Content-Encoding: gzip' \
+  -H 'Referer: https://meet.google.com/' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/binary' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0003í\u009dmo\u001bG\u0096\u0085ÿ\n¡Ï²Tï/Î\u0097Ý1²3ÉÀ\u00090Nv1\u0090\u0004\u0081¦Z\u0096v)RCR\u0086\u009d_¿Õ\u0094lµºiúV\\EÊsO\u0082ÈF\u0087j\u0095Èçô­ºçÖ­\u0093\u0013y8»\u009bNÉ_N\u001eÿªïÿ8hf/þú\u0097\u0083Csxðvþ¯ó\u009b¦Y]ÏÞ-ï®\u0097Íâ}³8WBIá\u0095?\u0012æüV\u001e\u009c\u009d\u001dZqxrr \u009d\nB:ic\u0088æàáîg\u001b\u007fèÁÉÉÉéúîWÓñ¬y\u0015e\u0014ÁúÓ\u0083ÃÓ\u0083×ÿùËß_-\u007f6«¨ÿªßüº:¿y·¾\u001en?xûû?ÿë¿\'\u001fâ«_§ççñ\'÷Ï¿ÿôzý?\u0097·ãI³<þ ~\u009fýï¯×ï_üöû_\u008e/\u009a÷×íE­D|«ìÛ\u0017\u0017\u0017Q¿0*\u008e_\u0004é\u009b\u0017Á*\u001fÞ6o/\u009d\u009a¬oòy<ç?ÿÏD¿ÿûÏ\u0097òv~zÐ\u0019÷éÁmz+n\u009a\u0018Ã\u007f¼»\u0019_O\u008f&ó\u009bO¯8=\u0098Hå¼\u0010\u0021J¯\u0084Sºýk<ÿåõ\u009bÞM./Þ¾x\u007f·üãÅ\u001f\u007f4_\u001aþéÁæ·®ÿ¡UþrJaàôó§}vxb\u0084~@0}Ä¯\u009bÕÕüâåhr{wô®Yý4»\u009cÿ0úíãmórô·ñìÝün5z5¿¹\u009dÏ\u009aÙjôã\u0087U3[^Ïg£\u001f\u0017\u008bùâ\u0087tá6}\u001cãUºôrôË|´h\u0096é¥Ëft¹\u0098ß\u008c\u009aO/?\u001aM®Ò\u0085æhq7[]§?§ãåj}\u008b£\u009bf¹\u001c¿K?íÕünz1\u009aÍW£f¹\u001a¿\u009d^/¯F\u0093ùlÖLVë;ü£\u00994×ïÓï8jf\u0017£\u008by³¼\u007fñ\u0087ëåêè´\u0085üä\u0009Ð\u001dZ:¿ýà#Kj4Ê\u001dÊôo8;ëRðø6=~\u0011\u009b?ì³C§ì\u0016\u0018ÚÁ}V\u009f\u0013ÊD¨\u008f­ú\u009c\u0016_\u001beúðo\u009a\u008bëñù2©#Ñ¿<\u009e\u008c§ÓÛfq\u0099n%Ó£\\\u0009qÖþS\u009cùÏ\u0083#1ï2\u0098·\u0002Ì3e¾3¾í¤nþÅÒ÷\u009c\u009c\u0004#\u000e\u001fç/Q\u0086t1\u0018yøä©\u009a®I¯c÷\u0085Ê¬/>ýnc[:µÎÒÆ¦/[´á¡\rhcWÚÐ\u001b´azÚ¨N| \u0013\u001f¬\u0005ñL\u0089ÿ\u00933 \u007fÝ5\u008b\u008fé>þaúóðÍ>ï/Ï`Ò\u0014sdâ\u0021\u0013¦2é\u008c¯È¤É\u0009kä`Ò\u0014\u001e\u0002\u0083¨\u0018\u0018\u0086êØF|\u0000ñ ¾ÄTHDgt\u001cL\u0085vBü\u0096\u0014o\u009fø¨0ùçJ<R±4õå¥bµ"«OF\u0009õA}P_Aõi²úTt\nê\u0083ú ¾rê3dõé\u0010\u0011û >¨¯ úèE\u0000&D\rõA}P_9õÑË\u0011l\u0014\u0088}P\u001fÔWP}ô\u0082\u0007\u0087òS¨\u000fê+ª>zñ\u0085\u000f\u0011®2Ô\u0007õ\u0015T\u001f½¦#Dá >¨\u000fê+¦>C¯/\u0089\u0021¢¾\u0004ê\u0083ú\nª\u008f\\ëâE\u0094ÈyB}P_Aõ\u0091k]¼\u0014\nn;WõuÆW¤\u009a8=ËµZ×VªÃ\u000eaë­\'O¶`µ/´ý-Xé¢ÕÕ7¤\u0018r%J«\rD&®Úh7¤È¯\u008dò«[r×¯ª¶Á$\'$\u0090K@\u0080=gìË\u0084\u0004½\u0021$Ø^H¨þ \'\u0097]ø\u0084/&A\\\u0089Ç\u0012\u0084\u0018oò\u0096 ä²\u000b¯B\u0084ú >¨¯ úÈe\u0017^\u0087\u0088]÷P\u001fÔWP}ä²\u000bo\u0010û >¨¯¨úÈe\u0017Þ\u0086\u0080\u0082_¨\u000fê+§>K.»ðÎ¢ß\u0013[õuÆWÆzJäÉ¾õ\u0094\u0008\u0013-sÊWÌ3Zz©\u0083\u008b\u0006³=®Ä#ÞT\u00897ôR\u0007¯5\u008al¹ª¯x¼ñÊ\u008a~¼I\u0084Éúñ\u0086^Àà\u0091]àK<âM\u0095xC¯£\u0008&"ÞpU_ñx\u0013\u008c´ýx\u0013L\u0088õã\r½\u008e"\u0085\u001b\u0010Ï\u0095xÄ\u009b*ñ\u0086^G\u0011QÅ\u0004õA}EÕG®£\u0008"\u001aÄ>®êë\u008c¯Èl/\u0088à}o¶×\u0012&ª7©¶äÚ\u00854\u009e\u0080\u0096\u0011\\\u0089G¼©\u0012oÈµ\u000bAJl\u009be«¾âñF\nÙß¸×\u0012&û\u001b÷Ú\u0017úþÆ½tQ\u009bêû9\u001c¹² \u001d9Z\u0089qÕÆ¿ÙÆ=G./h±GA\rWìË\u0084\u0004½\u0021$Ø^H¨þ \'[úA:\u0083I\u0010\u0088/5\u0009²¡_B\u0096\u0008Ó¾ºÅâÈ\u0096~\u0090é#\u0007ñL\u0089Ç¢\u009b¦¾¼E·#[úAY\u0081xÃU}Åã\u008d2\u0083n9éZôÕ\u0093¼\u008elé\u0007\u0085ó`ø\u0012\u008fxS%Þ\u0090-ý 1Û\u0083ú ¾¢ê£[úF`»\u000e[õuÆWf¶§c\u0018Ìö\u0012º;\u0098íÑ-}\u0013\u0005\u008c\u0013®Ä#ÞT\u00897tKßb¶\u0007õA}%ÕçéE\u0003\u000e\' A}P_QõÑk\u0017¼×8\u0083\u0085«ú:ã+³ÖòÎ\u000e\u009cÜD\u0098¬¾ÖòôÚ\u0005\u001fá%±%\u001eñ¦J¼¡×Q\u0004´F\u0080ú ¾¢ê£×QDç\u0010û¸ª¯3¾2³½h£ëÏö¢³¦zÝ\u009e§×Q$â\u0091YçJ<uKÂÕ}¸Y\u001e¿½\u009bþ_º\u0081}Ü\u0088pHøËþ7+xzi\u0003\u0004ÁX\u0010\u009dñ\u00959eès÷O»ë\u0010@/\'\u0088^cÉÁ\u0095ø\u0013)?U\u009e<î=[-\u009añÍòxÙ\u008c\u0017\u0093«\u001a\u0013øÇ\u001fJb\u0099^(\u0090XÆ\u0004\u001e,?c\u0096é¶;XæÍ²w\u0015X\u001dÎ\u0084¿Ìj \u009bÔ\u0089UÌ\u009a\u0019³\u001ac\u0005VãàY¹\u0085Uº¥\u001b½ÁÖ\u0011¶¬\u001aeTùl\u0084\u001a\u001em¿\u0085Uº\u0019\u009bXEé\u001dXÝ#«të2\u0086\u00889\u0000_Va]\u0092Ô\u0097e]\u0006²u\u0099\u0084\u0084Â\u0001¨\u000fê+©>²\u008d\u001a¥ò\u0088}|Õç´þÚ(Ó\u0087ÿæãlòúþ¶oÚßþÕ|:½\u0097ÂòÙ\u0098ª\u0083éÞ\u0016y\u0090MUÈ\u0083·<\u0094ô\u0015\u009612#í\u001eÈvhË*º\u0015reµ3¾"5`QJ\u0019z5`éZ\\\u0017\u0000ø\u009a\u0015ÿ\u0081l\u009a\u0082x\u0010_\u008eø \u0085\u001bT=j)w@<ÙZ\u0005ñ ¾\u001cñ>½\u0085º\u007f\u0004Z\u0014NV\'>\u0092\rZ\u0010\u000fâ\u000b\u0012ï\u0082éÏj¼\u008bR×\'\u009eló¶Äãà#\u0010_\u0088xëÓ\u000c¦G¼\rf\u0007Ä\u0093Íb\u0010\u000fâ¿\u0095x½\u0081x»ã\u0095k$[Î)âh\u0094òp%þD\u0007¡\u008bç\u0015Û\u009bf°J7h¥±`\u0095-«OJÓ·\u001aAû®P\u008f\u0019®\'\u0090\u0006Òß\u0003Ò\u0019N¥±(¸\u0004ÒÏ\u001fé\u000cCÓXT\u0086\u0001éç\u008ft\u0086ci,¶Æ\u0001éç\u008ft\u0086%i,J¤\u0018#½ïÝ\u009eé#\u0000«`õ;a5Ã\u00064\u0016Æ7XÝ#«\u0019\u0006\u001eX\u0005«{e5Ãz3\u0016f3cV÷ÝñÁ\u008b\u000cë- \u0093\u000e[V;ã+TÒïE¿Ü3\u0011¦î\u000fL3õ\n#¼Èpæ°\u001b\u0018Ä\u0017$Þõ\u008f\u0008L\u0084\u0005W\u009fø\u000cã.á\u000bâ\u0099\u0012\u008fýï4õeí\u007f÷\u0082î1*a0Ãâª¾òñ&êþ\u0016²\u00960Ñ.<¼\u008eO^\u0018×\u0017\u009f~·\rëÈ¤kF&ºY\u0099F\u008el9WmP[ì?t«M\u0091£u.\u008f\'ãéô¶Y\\¦[ÉÇ¾\u0010{o¤ï\u0005ÝÐ\u0004ö\u008c±/\u0013\u0012ô\u0086\u0090`{\u0021¡ö\u0083^ÒmQåU\u0004ñ ¾Ì$H9ÓßqÖ\u0012&ª/º%Ý\\UAãlb\u0010_\u008axo\u0086Óþ b}âé\u0016­\n\u0001³\u001a®Ä#ÍDS_^\u009aIÒMg­\u001dl\r¾ê+Ñf±þr\u009a¾}ÔKº\u0087\u009dÐG\u0086\u0095/ú{o¡è%Ý}\u0006«\u008cYí\u008c¯Ì²@§9w\u007fY µ¶µ\u001bQxIw\u009f\u0013ñX\u0016\u0080øBÉÎÏÄÛ]\u0013Ow|µöØûÏ\u0095øgÐzÅKº\u0003«CD]=WVË<\u009d»ó\u0011¿a>\u0092Þâµ.ª>\u009déæ«\u008e\n\u0089y®Ä#MIS_^\u009aRÑ\u008d`c`\u008b±U_ñxct\u0018T_\'ÂTu[LÑ\u008d`ã#\u0088çJü\u0089sV\u0014\u007f:·7Í`\u0095ná\u009a °s\u0091-«^«\u0087´^ú\u0088ÓûðÁ\n]crñøsHøÒ=PkQjÏ\u0017_LíIêË\u009cÚÓmXkam1V_z\u0013Ê³*³"\u0005Ý\u0086µ\u001e¦\u0014_V­¬0)oo\u009aÁ*Ý@\u0005«¼Y5åÛ\u0089´7Í`\u0095n}Ú`\u0090ìàÊjg|eÒ{ÖûAz/\u0011vo\'¹\u009aé=º\u0081ê\u0004R& ¾\u0018ñ\u0021\u000eöy$Âdý\u00846Ý@u\u0002\u0016\u000e[â\u0091e¡©//Ë¢é\u0006ª\u0013\u0016;iùªOª\nÅîr8ÃßÂ*Ýút\u0011»¾\u0019³\u008aHQ\u0021RÐÍ\\/\u001cÚ¾qU_g|eV&.\u0086AÏ\u0085D\u0098ª¾\u0016\u001fn\u001aü2ñQ \u0098\u0099+ñ\u00887Uâ\rÝÿ\r\u0021Â§\u0080ú ¾\u0082ê£;ÚQâà\u0021¶êë\u008c¯Ìl/\u008a(û³½(M¨\u009e\u0087Öt_<Ú\u0008ç\u0005Ä\u0097"Þ\u008a\u0081óÒÚ1õ\u0089§»ë\u0011\u008dÜù\u0012ßn%\u00905¶\u0012äÌG¨¾¸\u0012B\nl\u0082gËª÷±|5h{Ó\u000cV©\u008eö\u009aU\u009clÏ\u0099ÕP\u0083ÕÁ³òË¬\u001aªÿ»f\u0015UölY5º\u0086ÿ«sü_Cõ\u007fÁ*wVm\rVm\u000e«T·\u0014¬òfÕK[¾iS{Ó\u000cV©>gË*ö¹òeÕ(Q>\u000fÐÞ4\u0083Uª+¸f\u0015YZÎ¬\u009a\u001a¬\u000eøÛÂ*ÕCkYu¨lgËêól\u007fa¨\u0086XÂW£à\u008f/¾Ï`S³¡ZYkVQ\u001aÎ\u0098Õ½oj6\u0019V\u0096\u0091x®reµ3¾\u0012\u0085\u0006\u0089&%üÓB\u00835a¦z\u0021õP\u001d_&Þ"\u0019Æ\u0096ø\u0013oeù\u0099D{S:«ÃYÇ\u0016V\u0015\n\rØ²\u008a²c\u0092úòÊ\u008e\u0087%A_V_\u0008\u0098\u001bA}P_AõÑMËô/\u0092ëP\u001fÔWP}t\u001bVI\u0083\u001c\u0016WõuÆW&/ \u0084\u0019ä\u0005\u0012am\u0019­l\u008bY;/\\\'z¥\u007fúÝÞ¯3\u0008ºb\u0006ÁÒm_h\u0083±6Úã\u0088å×F\u0099>ü\u009bæâz|¾L\u0091£=\u0081øx2\u009eNo\u009bÅåé.\u008e"Î\u0009\u0009t\u0007YI\u008bd\u0004WìË\u0084\u0004½\u0021$Ø^H¨þ §\u009bÎ*bï\u0004[â±\u0004\u0021Æ\u009b¼%\u0008ÝF×\u0001;BÙª¯L¼é,"´_\u001f]ûd\u0009¢}´Õ÷@[º\u0019\u009f\u0088ÇÂ\u0082+ñ\u0099\u000b\u008bÕ¢\u0019ß,\u008f\u0097Íx1¹J÷±\u008f«\u008aCÂ_\u009eÁÊ\u0083nÙC\u0017\u008cuÑ\u0019_\u0089\u0095\u0087Lï¥Sý\u0095ÇN"\u0081£\u001bÿ:H¬µ¹\u0012\u007f¢\u0085{\\y,.\u00975¦í\u008f?\u0083\u0084.Ý5×ÁbÑÌ\u0016])\u009dÿ\u008cîæ©Jy\u0096\u001f\u007f(\u0089eº\u0007\r\u0096y³ìË7zio\u009aÁ*Ý±M¬b\u0083\u0017[V\u008d2ªÂfÄa\u0093\u0081-¬Ò\u001dT\u001dÐÞ\u00901«H¬\u0093Ô\u0097\u0095Xwt#×$æ >¨\u000fê+§>º©lÓG\u0003õ1U_g|el-\u0013Mï\u0018Ñ\u00960éªï¸\u001b®¸¿L|\u00880r¹\u0012\u008fxS%ÞÐMe\u0017\u0085\u0082ú >¨¯\u009cúèÖµGìã«¾ÎøÊÌö|{@|o¶\u0097\u0008ÓÕ­kO·®}ÔÈíq%\u001eñ¦F¼ñt÷=XäöØª¯x¼\u0009V\u000f\u008af\u0013aõK¥<Ý£\u000f)þ\u0081x¦Ä#ÞT\u00897ôª\u0083h\u0003²Ù|Õç>\u009d`½µdýÍÇÙäõýmß´¿ý«ùtz/\u0085åés©\\Ïèfïé\u0085\u000e\u0090\u0007ky(Yá\u0094\u0090tÓ\u000cVée\u0001\u0089U$\u008a¹²Ú\u0019_\u0099¥CLøö\u0097\u000eÑÜ\u009f9êEÍ¥\u0003Ý\u008a\u0007ñ ¾\u001cñRÛÐ\'^\u001a¹\u0003âéV<\u0088\u0007ñ¥\u0088\u0097Ñ«(ÎzçJ{mU}âéöw"\u001eé\u0021\u0010_\u0088x\u0013¥é\u0013oU0õ\u0089§[Î \u001eÄ\u0097#^ë0 ^;\u0017ª\u0013\u001fè\u0096s"Þ\u0080x\u0010_¦?Àgâí\u008eW®\u0081nóF\u0087\u008e\u0018l\u0089?ÑA\u0094?Ñµ½i\u0006«t\u00836:\u008dù\u0008[V\u009f4\u0004Øj\u0004í»/@Èp=\u009dÆ\u0084\u00831Ò{ï\u000b\u00102,È`-XåÊ*O\u0087>d¸\u009e\u0090\u0007gyìß¡\u000f\u0019~%XåËjg|\u0085\u001czçãÀ¡÷NÔÏsdø\u0095Áb3\u0009\u0088/åÐÛ~.;]s÷g\u000eÔ%>Ã¯\u000c8<\u001cÄ\u0017sèuèmàH×¬ß\u0081{\u0093áW\u0006\u008f^· ¾\u0098Co]\u009fx«\u009d®N|Ìð+A<\u0088/F¼6:ô\u0089×.Ö\u009fÇÇ\u000c¿2xì\u0083\u0000ñ¥\u001cúOÄÛ\u001d¯\\c\u0086ë\u0019%\u001a\u007fp%þ;r=c\u0086ë\u0099\u0008\u0005Ò|\u0091Þ»ë\u0019É®§\u0014Ú`£\u0003[Vyº\u009e\u0091ìz¶ò@M\u0016_yìßõ\u008cd×\u0013¬rfµ3¾B®g´ý\u0016zR(U\u007f\u0007O$»\u009e-ñ(/\u0004ñ¥\\O\u0017\u0006;ñe\u0010õ÷3D²ë\u0009âA|1âeôÆª~FÜ;_ßç\u008fd×\u0013Ä\u0083ø\u0082Ä[Ño\u000cÜº\u009e¡:ñA\u0090]O\u0010\u000fâ\u000b\u0012¯M\u001cT¶h¯«ÏjÒO\u0002ñ ~/®ç\u0003ñv·+× È®g"\u001eý\u0085Ø\u0012ÿý¸\u009e\u001b¶:oC\u001aéGÆHïÛõ\u000c"Çõ\u008cØ Ä\u0095ÕÎø\u008a$\u000e¥\u0010²¿A¨%¬úi3Aä\u0018\u0099\u0011§\u009es%¾õùå×F\u0099>ü\u009bæâz|¾\\-\u009añÍòxÙ\u008c\u0017\u0093«gcðÓûò\u0007\u0091c\u009aB\u0017luÑ\u0019_\u0099¥§ôb¸ôÜI$È0M\u008dÆÜ\u0087+ñO\u0097\u009e\u009b\u009f÷{_sfØ¡\u0006gèqfyÿkÎ\u000c#Ó ÉÍ\u0097U£ÖçÏ\u0097eµ½)\u009dU\u0099aAZ\u0083\u008d\u0097|YåX\u0015\u001ed\u0086_\u0009yp\u0096ÇÞ«Â\u0083Ìp\u001aÁ*_V;ã+\u0094êN?h\u0090ê6¾úI&Af\u0018\u0091Ö`\u000f=\u0088/U\u0015îu\u009fx\u0021£¶õ\u0089Ï°3A<\u0088/D|Û÷J\u000c«Â½ØÁ3>ÃÎ\u0004ñ ¾\u0018ñVÄAg 4m®_#+3\u008cJ\u0010\u000fâ\u008b\u0011¯íp\u001f\u0084ö®~\u008dìp\u0095\u000bâAü.ªÂ?\u0011ow½rÍ°3mD®\u0086+ñßQU¸Ìp=\u00814k¤÷îÐ«\u000c×Ó;´"dË*O×Se¸\u009e\u001e\u001d÷\u0019Ëcÿ®§Êp==:\u0087³eµ3¾R®§ëí¡O×\u009c®\u009f-Q\u0019®§Gçp\u0010_Ìõ\u000cZ\u000c]Ïú§Ù\u0007\u0095ázz\u008f\rÇ ¾\u0098ë\u0019íÐõ4¾>ñ\u0019®g\u001a\u0010\u0088\u0007ñ\u0085\\O9ì\u000cd\u008dÝÁ¬&Ãõô\u001e\u009bÕ@|1×sø\u008c×ÁÊúÄg¸\u009eÞcC2\u0088/æz>\u0010ow½rÍp=ÓZ\u0003Ä3%þ;r=U\u0086ë\u00194\u00921\u008c\u0091Þ»ë©3\\Ï\u00802+¾¬\u001añ¹3Pú0\u009bÕÕüâåhr{wô®Yý4»\u009cÿ0úíãmórô·ñìÝün5z5¿¹\u009dÏ\u009aÙjôã\u0087U3[¦GóèÇÅb¾ø\u0021]¸M\u001fÇ¸}Z¿\u001cý2\u001f-\u009aezé²\u0019].æ7£æÓË\u008fF\u0093«t¡9ZÜÍV×éÏéx¹Zßâè¦Y.ÇïÒO{5¿\u009b^\u008cfóÕ¨Y®Æo§×Ë«Ñd>\u009bÝÇ\u0082£Ñ?\u009aIsý>ý\u008e£fv1º\u00987Ëû\u0017\u007f¸^®\u008ejD\u008aÇ·\u0089¤¾\u000cS5Xt°à«¾ô&\u0094gU\u000e\u0013,[XÍ0U£G}\u000cWV;ã+dª\u0086Áq+-aõ{e\rËc¾H¼\u0014\u0002m\u009a¹\u0012\u008f¹Q\u0095¹\u0011Ýàm»¶C}lÕgm\u0085\u008eIé¦\u0019¬Ò­Y\u0019"\u008a\u0011ø²\u008aHQ\u0021RÐmb\u0019\u0015rX|Õg­®\u0011)2Êè5ÝàM¬bVÃ\u0097U©*\u0094ÑËa\u0081Á\u0016VéÖ¬\u008a\nå7\\Yí\u008c¯LÆG\u00053Èø¨\u0004Ì:ãS³\u0018AÓ\u009d[\u0015-æñ\\\u0089Ç<\u009e\u0018o²æñ\u0086îEk\u0081s\u0099Øª¯|¼\u0089~\u0010o\u0012amVIú\u0014\u0013º/\u008cë\u008bÝïÖB­\u008f\u0005Öºbd2t§8\u008d\u001cN1Wmd\u009eà\u0094"G[3w<\u0019O§·Íâ2ÝJ>îLßÿ\u0001MÃ¶õÛ°G=4WìË\u0084\u0004½\u0021$Ø^H¨þ §\u009bÎ\u001a}Ï@ü·\u0011ß\u009dÆ\u0018?8\u009cRÛûþÅUË,\u000cÝèÕ0Ïø\u0012\u008fE7M}\u0099\u008bnºum¬@_\u001f®ê+\u001eo\u008cQ\u0083Ew"l\u0007ñ\u0086n\u0017\u009b(aÁq%\u001eñ¦J¼¡\u001bàÖyÄ\u001b®ê+\u001eolÂ©\u001foÒ%S?ÞÐmt\u001bÑÅ\u0082-ñ\u00887Uâ\rÝÒwA#ÞpU_ñxã¼³ýx\u0093\u0008[wÆÓ®b¼±t\u001b\u001dÄ3&>Ó*\\-\u009añÍòøf~q}ùñô¹t°Î\u0088\u0004\u0096n¡»\u0080³PÙê¢3¾2½\u0095¬÷ªï%î&\u0012ÐÝs\u0017%¼D®Ä?í­´ùy¿ï¦JÃM\u0016ÛXF%\u0008[\u0096\u008d2\u0015¶\u0083ªa%Ò\u0016Vé\u008e¶\u0017èiÇ\u0096ÕÎø\n­9\u0083\u001bxj>ýøú3\rº\u008bì\u0005j8Ø\u0012\u008f\u001c\'1Þdå8-ÝÑöÚ@}\\ÕW<Þx¥\u0007\u009e\u009a×\u000f+Û\u009a\u009e\u009a¥»È>\u0004\u009c\u0085\u0000âK\u0011\u001fÔ\u0090ø\u0010ê7#³t\u00179\u008d\u0007.2Wâÿ\\V\u007fÙ\u008c\u0017\u0093«ï2«O÷w¡\u000bÆºè\u008c¯È\u000e\u0021áÃð\u009cø\u009dD\u0002G÷w}T\u0098ís%~[VÿÓó~ßY}G÷d\u0013Ë\u0098Ç3fyïG%8º\u009b\u009aXE\u0003l¶¬>\u0003\u0007ÊÑÝÒ \u0005\u001c(¾¬"\u001fOR_V>ÞÑýß ,"\u0005WõuÆW&;\u0019¤\u0093ýìd"LU÷\u007f\u001dÝÿ\r\u0021 :\u0087+ñ\u00887Uâ\rÝÿ\u008dVcG3Wõ\u0015\u008f7Ñ8Ñ\u008f7Ñ>´Ã«\u001aoèþo\u000ch\u0015É\u0096xÄ\u009b*ñ\u0086ìE+\u0091¦{P\u001fÔ\u0007õ\u0095S\u001fÙñn·B ·ÇU}\u009dñ\u0015\u0099í%\u009at\u007f¶·Þ*Y}¶çÉ\u008ew\u009aîa\u001f\u001b[â\u0011ojÄ\u001bOöèÓ?è_ÃV}ÅãMÛ#°\u001foTz\u009f«WXy²Ó¯T\u0088Xßp%\u001eñ¦J¼\u0021×.(\u008dÙ\u001eÔ\u0007õ\u0015U\u001f¹vA\u0019¡\u0090]àª¾ÎøÊÌötÔª?Û3B\u0086þ\u0021Lí\u000bmÿ\u0010¦tÑÜï:¬y6\u0087\'W9´Ú@dâª\u008d\u007f³C\u0098\u0086EÒÀ\u001eØ×ßbõ\u0018\u0012l/$T\u007fÐ\u0093Ë\u000b\u0094\u0089\u0002§íq%\u001eK\u0010b¼É[\u0082ÐË\u000bl\u0008h`\u000bõA}\u0005ÕG//°1 \u0098\u0094«ú:ã+\u0093\u0000°\u0009\u008e~\u0002 =\u0010£ºÝ\u0013èå\u0005.Jl¨çJ<âM\u008dx\u0013èå\u0005>­ý >¦ê+\u001eo\\4ýÍr-a²~¼¡\u0097\u0017ø\u0080CÍÙ\u0012\u008fxS%ÞÐË\u000bB\u0014Xß@}P_AõÑË\u000b¢@k\u0004¶êë\u008c¯Ìl/ÄÁñ\u009f-a;\u0098íÑ\u008b\u0006¢Bk|¶Ä·E\u0003úk£L\u001fþ\u009b\u008f³ÉëûÛ¾i\u007fûWóéôþá¿<}.ý[\u0007S¬-ò \u0017\u0017@\u001e¬å¡¤/Ïjºi\u0006«ô²\u0080Ä*ºUreµ3¾2\u0093\u0097(uÿ,ÙD\u0098\\÷\u001aö¢æä\u0085nÅ\u0083x\u0010_\u008ex\u0099ÞÉÁ^c©E}âéöw"\u001e»\u001dA|\u0019â¥\u008b.\u000cN\u0016\u0011ÖW\'>Òío\u0010\u000fâË\u0011oüð,\u001d\u0093þ¨O<Ýr\u0006ñ ¾\u001cñ:ý×\'^{±\u0083g<Ýr\u0006ñ þ\u001b\u0089×\u001b\u0088·;^¹FºÍ\u001b56-±%þD\u0007¡\u008bç\u0015Û\u009bf°\u009aa\u008aj\u0083\u0082 ¶¬>9Ñi«\u0011TÞÖÉ;Ø)f¸\u009e@\u009a5Ò{?Ø)fX\u00906`ªÀ\u0096U\u009e\u000e}Ìp=\u0021\u000fÎòØ¿C\u001f3üJ°Ê\u0097ÕÎø\n9ôÚ\u000fË\u000b\u008dÝA\u009e#Ã¯´Ø®\u000bâ\u008b9ôJ\u000c\u0088\u0097*\u0084ÚÄG\u0091áW\u0082x\u0010_\u008axé¥ê÷#nßÞê5)Qdø\u0095 \u001eÄ\u0017#Þ\nåúÄ[\u0011w@|\u0086_\u0009âA|1âu\u0094\u0083\u0013íLúZ\u009fø\u000c¿\u0012Ä\u0083øo#^o Þîvå\u001aE\u0086ëé\u0014,"®Ä\u007f?®g\u0014\u0019®\'\u0090f\u008dô¾]Ï(2\\O¯Ðã\u0096+«\u009dñ\u0015J\u0095»ÁF\u0087\u0096°û>\u007f\u0015\u008f\u0011\u008c"ÃÈôx:³%>³}ÿjÑ\u008co\u0096Ç7ó\u008bëË\u008fÏÆà§÷dIÜB\u0017ÐÅ\u001e\u0096\u009e.87Xzî$\u0012d\u0098¦Þ¢L\u0080+ñO\u0097\u009e\u009b\u009f÷û^sÊ\u000c;Ô[ÌãÙ²l\u0094Q\u0015Ê³ÌÀªÙÂj\u0086\u0091\u0019=\u009e»|YåXi\u001be\u0086ë\u0009yp\u0096ÇÞ+m£Ìð+Ó\u009c\u001e¬2eµ3¾BéÃ \u0006\u009d\u0081b°õë\u000ee\u0086_\u0009âA|1â¥\u0097zPië£­O|\u0086\u009d\u0019=zs\u0082øR\u0095¶Îô\u0089\u0097Þ\u008b\u001d<ã3LQ\u0010\u000fâ\u008b\u0011oMìwø\u0094Öé\u001d\u0010\u009fa\u008aF\u008f\u000e\u009f ¾\u0010ñF\u000fû\u001d\u001a³\u0083ýC2Ãî\u0004ñ þÛ\u0088×\u001b\u0088·»^¹\u0092íÎôAK\u0018ü\\\u0089ÿ\u008e*m\u0015Ùõl\u0091Æ9B\u008c\u0091Þ{¥­"»\u009eé#B\u0013}¾¬âÄ9\u0092ú²N\u009c\u008b\u008alªj¡¢\u0080úØª\u008feÍ\u0081"û¸­<PsÀW\u001eû¯9Pd\u0007\u0016¬rfµ3¾"¹J-¤ì×\u001c¤k¡zßþ¨È\u000elK<j\u000e@|¡\u009a\u0003%\u0086\'Îµ?¼>ñd\u0007¶%\u001e\u000e,\u0088/Us\u0010õ ×Q\u0010ª~v^\u0091\u001dØ\u0096x¤\u0087@|©\u009a\u0003/\u0007çoÙ êw÷Rd\u0007\u0016Ä\u0083ø\u0082Ä\u001b\u001b\u0086Ý½\\¬ßëHe8°8\u007f\u000bÄ\u007f\u001bñz\u0003ñvÇ+W\u009daÐj\r\u0083\u0096+ñßQÍÁÐuÚ\u0086t\u0004Ò|\u0091Þ{Í\u0081Îp=mDW\u0000¶¬òt=\u0087¯\u0085< \u008fçézê\u000c×ÓFTïreµ3¾B®§\u008eýü \u0016&Ôï\u0085®3\\O\u0010\u000fâK\u0011¿¶8\u0007®§\u008aõ= \u009dázÚ\u0088l\u0009\u0088/\u0094\u0011\u000fé\u0081>p=¥\u0096õ\u0089Ïp=A<\u0088/F¼\u008djÐ[À\u0089]\u0010\u009fáz\u0082x\u0010_\u008cx\u0013äp§u\u0088;ð\u00802\\O\u001b\u00910\u0007ñ¥\\ÏOÄÛ\u001d¯\\M\u0086ëé\u000c*[¸\u0012ÿ\u001d¹\u009e&Ãõ\u0004Ò¬\u0091Þ»ë9ìEýeV\u0083Á\u0014\u009b+«\u009dñ\u0015J\u0095ûÁv\u0089\u0096°û\u0093,LÍ\u0009G\u0086\u0091\u0019\u000c¦Ø\\\u0089ÿsg\u001a-\u009bñbrõl\u000cþ\u008c]ÿ&Ã4\r\u0016»þ¹ê¢3¾BKO£úg\u001aí(\u0012d\u0098¦Q`ã\u001cWâ·\u009diôéy¿÷5g\u0086\u001d\n\u0096Y³¼ÿ5g\u0086\u0091\u0099À\u0003«\\Y}\u0006ço\u0099\u000c\u000b2Z<Wù²\u008aNt$õeu¢3ÛíÐ³ÃGõIß6\u009eþ\u0082ð6}\u0011gÿ\u000fÃSäècÔ\u0003\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_streams/search?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=protojson' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'Authorization: SAPISIDHASH 1628016233_a20c00068f927e5d9989bb819bd4a343bcc05a89' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'Accept-Language: en' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: application/json+protobuf' \
+  --data-raw '[[[53],["boq_hlaneC9190857",null,null,"boq_hlane_JWc3vKJf1po"],null,"en-GB",null,null,[1,426,1,1,8]],1,"MANKCsJ4t93G3SOt_mg","8px75UYFVcx9COl__9I6YKIM",[416772104948483,null,["AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG",1628016155354]]]' \
+  --compressed ;
+curl 'https://meet.google.com/hangouts/v1_meetings/media_sessions/callperf?key=AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0&alt=proto' \
+  -H 'Content-Encoding: gzip' \
+  -H 'X-Goog-Encode-Response-If-Executable: base64' \
+  -H 'Accept-Language: en' \
+  -H 'Authorization: SAPISIDHASH 1628016234_6510273a567d3cb8133b2683654894eaa85835aa' \
+  -H 'Content-Type: application/x-protobuf' \
+  -H 'X-Goog-Meeting-RtcClient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'X-Goog-AuthUser: 0' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0003¥\u0095{lSU\u001cÇÏ9íÝno÷8lh®\r\u009a:M\u009c@·{o\u001f·w\u0010³\u0017tm)\u009bcuëb,ëz»u¯\u0096\u0095\u0096ºø\u0007ÈÃIT\u0008ò\u0098 f\u0082(.Ä,<âB\u008c\u0099Ä\u0090b\u0088l \u0008\u0008Z0\u0092¢\u0089Y4ê\u0098\u0010<]Ù.$ü\u0021ñ÷Çï~¾çû½÷ô\u009côÞÃT3\u00886\u0017ÌgæøB«¼í]-=r\u0095ÄK\u009cÕ,\u0016=2;äu4¶\u001acNG\u0080\u000f\u0087\u008a(¹Ç`«,ÓÒ\u0010\u000f©X¨\u0087ÅtA¡«b¹³*â0­\u0096\u008c6ã\u008aÚÕÞî6Ý\u0085Ü\u0002Ö\u001a\u008e\u008bf·gé\u000b­q©ª¶Ëë\u0095ì\u0016\u008fÓîê}ðÃ\u0087àc­¼`\u00119Î*ñ¢ÀY\u0004c\u001a%ïr×\u008a\u0013°<\u0012ni\u0095#¥qÁÝÓQ\u001b\u008c\u0019\u001aÜ\u0095¥~9\u0016L\u000f\u001a\u0005Nò\u0009f\u009fÁï\u0097\u008c\u0006\u0093 µ\u0018¬¼(\u001b¬fA´úd_À"´êþ÷\u0013\u008a¾Ö2\u000fZlÁs\rQY_\u0011mÓsF½À\u0009¼\u009e·\u0096\u0099ø2\u008eÓÛ\\\r\u000b8RúâªP¨×\u001fìiY-ûõî\u009e`Lî\u008d´té\u001b\u0082Ýò³\u0007éSçNþ2\\Ê~\u0002\u0017p\u00098Â \u0001-Ø\u0096§Ã\u0080\u0005d\u0087\u0001\u0007¬ \u001c\u0084A\r¨\u0003M`%h\u0007\u008bÊQÍ\u009d\u0099\u0082u\n6)¸RÁv\u0005Ã\nÆ\u0015\\\u000b\u0015î¿\u0087\'\u0021\u009aDÉ\u008f\nÖª@¿\nlU\u0081\u0001\u001a\u000cÒ`\u0084\u0002£j°xQ9¬¡êl÷Îùô\u007f\u0098j|/ê\u0087¯eMB¸\u00111:\u0000ú\u0011Ú­ah\u0084)V¥GÅÚ$\u0012R(\u0001\'PéHÖ¯9CYêP8\u001aùY\u0095\u008eNÑ¹tr\u001b\u0083/¼Ë<¾IúgqZ\u0013ÆïíW4a|ýcE\u0013Æç\u008e(\u009a0Þs\\Ñ\u0084ñ¦/\u0015M\u0018\u008f}¥hÂøýqE\u0013Æo|¯hÂø\u009b«\u008a&\u008c÷¦2z4[Yø\u00155 õgVº\u001fËM÷7³Ó}Çt¿==¾\u0097I÷}ÌBð\u0010u<÷¡âC\u008c\u0016QH\u008dTj¤V¡$\u0003^×\u0006H]\u000f3\u0015[µ£\u0007\u000c)\u0006L0GOÎ\u009dd\u0092©ÝêQ\n$¨©wà\u0018õ\u0007u\u00812$©\u0003\u001b`\u008a:\u0096\u009f¢\u000fç/~\u001b\u000e@8\u0008³\u000fBq8¿~$¿~4\u001f\u009eÕj\u009f\u0011EÑj\u0015\u0004A\u0014\u0087á\u001b\u007fÁ\u0011¸,\u00995N¥²À(¼rY\u0095\u0080·áY8\u008f\u0099Ëób\u0089À[J\u0004©\u0084·\u001aËL\u0016\u008b b\u0098þÏ_\u0082:¦\u00807\u0009%\u0082\u0099+±\u0092K\u0019/\u0019931É\'\'¡\u0006Ûá(\u0002\u0009\u0004§ò<4À?Ý\u0086ì\u0099\u0001¦(\u008b0yeæki\u001d^·\u0001±\u0007\u008f\u000e>*äÐ\u0003\u0010\u007fº\u0085a÷ÿ°éÅ²»\u0091Ê»W\u0007Cï\u0081x°\u0086\u009dø\\ªÏ£Kð\u0088\u009a=r~¢P¿c{Î¤\u001a¬¥üS\u001a\u0096VMÏ\u000b\u008a÷\u0015r\u009f=éJï¡;ÝÒ\u0016\u008d#ì\u001c½¯xÝ<î\u0090ËõûÔ+\u0095³\u0016ÂjVMîú@Ã½õÔýwA¬a5Ä:éàúÑý\u0016\u0085\u0011\u008b\u00885\u0096Í}\u0091\u007f¿¥ÆÙl6±n<ÁÝ(T¬kZD\u0083ky`sþ\u0087\u0088)¢sðú\u009dÛ6\u007f{õ%\u001dCïÒàß.\u008f\u0091/\u000bá-\u001a\u009c\u009cJ3SL~õüÌÈðßwÝ\u0001\r>5Ã;g\u0098$\u00116d\u0092gn*É\u001fo*É\u000c\u0093$\u0083A&ùÝ-%\u0099º¥$3L\u0092\u009a\u0099ÙwÝQ\u0092\u0087î(É\u000c\u0093$Ä\u000b2ÉÄºñÙäÅ\u0019Þ9ÃL\u0009\u009d\u008b7Î®\u009aäO¬Wò\u0097×+ù+Óü*&;¶p\u008c\u0081+A\u0087fö(Ú\nÁa\u0098\u0013ðû\u000c±h¤ÏÐ×\'\u001f\u0087\u0085\u000f82\u008a.BÝyÈ\u009c\u0086\u0015µö¾®huÀa²/¯Yæ\u0088ÄcÞ@\u0093»)æurÝ1Ó\u0092ºÀR\u008fÛë\\â¨7y\u008c\u0082{\u008d»\'f3vöqb$ê\u0011\u009aÌÎ\u0098ÍT\';^\u008e\u009b\u001b\u0083\r\u009d\u00827\u0010\u008d/«\u0088\u0089\u0006_°6\u001eêíñ5\u0087:\u001a+É9á¬í\u008d46{£v·¡ùy{§ßVç367Xe©£·ÞÑÒYi\u0008w8¼M®ª¶6kh\u008dW²tÚyÁ-7\u0009Õæv\u0097PÕéó¸\u0002¶F_w\u0085=ºª±\u009e\u0097b\u001d\u009eö0×ÀÇý}NÑÓ¹¤Ù_Ý+È6|éØi²3ÿ\u0002âT]à\u0012\u0008\u0000\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016237_415e87c5166a053afd74c9ae1e149cfb4365d72b' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB"\u0004\n\u0002\u0008*J\u0002\n\u0000' \
+  --compressed ;
+curl 'https://meet.google.com/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections' \
+  -H 'x-goog-encode-response-if-executable: base64' \
+  -H 'authorization: SAPISIDHASH 1628016237_415e87c5166a053afd74c9ae1e149cfb4365d72b' \
+  -H 'x-compass-routing-destination: AHSoBRXsdUabHJpDyKatK9ElfRYzAAaxDT5_XiKL1q88oBrxJUS-pMvA_hq5eHIVTOn4SivKMTAq0OylNQYQB3CVclcUCFpUUWQS1kFycdV7-Q==' \
+  -H 'content-type: application/x-protobuf' \
+  -H 'x-goog-meeting-rtcclient: CAEQqgMYASABKAg=' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://meet.google.com/fdb-vusz-zze' \
+  -H 'x-goog-meeting-token: 1628016155354;AOIzluDfJ4INHLJsxv_fXUXv_K0mv4EPfFYU_KEJR4Y32UwUnvG3kz07suY2X5KvG4PeJyx5WiTk2_fuxLAv7-biOxornbZojWBnivKOrsWZ_uIU-ZQIkdGPb3ZT8e9jrRJakB-pjJ_XMCgg8ow_96kI12UeX2D5hM2CkbYMfGWbmAIuqWR19vjYhp0T1xdzK7YkEZdDr2eG' \
+  -H 'x-goog-api-key: AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-meeting-debugid: boq_hlane_JWc3vKJf1po' \
+  --data-raw $'\n\u0013spaces/x2UnjOiv-TUB\u001a\u0004\n\u0002\u0008-' \
+  --compressed
